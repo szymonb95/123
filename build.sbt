@@ -1,4 +1,4 @@
-name := """play-java-starter-example"""
+name := """damp-wildwood-52313"""
 
 version := "1.0-SNAPSHOT"
 
